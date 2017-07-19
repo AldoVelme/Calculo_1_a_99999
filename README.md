@@ -1,0 +1,4 @@
+# Calculo_1_a_99999
+Calcula probabilidad
+
+SIMPLE CALCULADORA DE ROBABILIDAD DE 5 DIGITOS 
